@@ -24,4 +24,5 @@ que contenga las funciones para realizar las 4 operaciones.
 Integrantes:
 
 Fernando Orellana
-
+Gabriel Toro
+Miguel Miño
