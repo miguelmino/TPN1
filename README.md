@@ -21,6 +21,9 @@ que contenga las funciones para realizar las 4 operaciones.
 (donde dice “x” e “y” en el ejemplo, se debe mostrar el número cargado)
 • Deberán contemplarse los casos de error
 
+
+Ejercicio N1:
+
 Integrantes:
 
 * Fernando Orellana
