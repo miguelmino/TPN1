@@ -1,0 +1,4 @@
+
+void mostrar(){
+    printf("ejemplo");
+}
