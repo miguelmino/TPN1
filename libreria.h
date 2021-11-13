@@ -1,2 +1,9 @@
 
+/*
+
+ver
+
+*/
+
+
 void mostrar();
