@@ -1,8 +1,10 @@
 # TPN1
-Calculadora
 
-Trabajo práctico No 1
-1.1 Descripción
+## Calculadora
+
+## Trabajo práctico No 
+
+## Descripción
 
 Hacer una calculadora. Para ello el programa iniciará y contará con un menú de opciones:
 1. Ingresar 1er operando (A=x)
@@ -21,9 +23,9 @@ que contenga las funciones para realizar las 4 operaciones.
 (donde dice “x” e “y” en el ejemplo, se debe mostrar el número cargado)
 * Deberán contemplarse los casos de error
 
-Ejercicio N1:
+## Ejercicio N1:
 
-Integrantes:
+## Integrantes:
 
 * Fernando Orellana
 * Gabriel Toro
